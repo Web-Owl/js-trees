@@ -1,0 +1,16 @@
+{
+  "name": "accumulator",
+  "version": "1.0.0",
+  "main": "lesson.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@hexlet/immutable-fs-trees": "^0.7.2"
+  }
+}
